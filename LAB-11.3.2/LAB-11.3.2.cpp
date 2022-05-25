@@ -50,8 +50,6 @@ int main()
 
 	Student* p = new Student[N];
 
-	int count, i = 0, j = 0;
-
 	int menuItem;
 	do {
 		cout << endl << endl << endl;
